@@ -1,0 +1,11 @@
+category:   day1
+points:     20
+short:      filetype
+name:       "Испорченный файл"
+author:     nsychev
+description: >
+    Мы скачали файл из внутренней сети хакеров, но при передаче потерялось расширение. Теперь даже не знаем, как его открыть.. Помогите!
+attachments:
+  - unknown
+flags:
+  - text: summer_bytes_can_say_anything
