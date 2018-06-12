@@ -1,0 +1,15 @@
+category: day2
+points:   15
+short:    classic
+name:     "Классика"
+author:   nsychev
+description: >
+    Некий специалист по истории, известный на форумах под никнеймом
+    `©@rd4n0.1501`, разработал новейший криптоалгоритм.
+    
+    Тому, кто расшифрует его послание, обещается награда!
+attachments:
+  - grille.png
+  - encrypted.txt
+flags:
+  - text: "©@rd4n0_is_not_classic_code"
