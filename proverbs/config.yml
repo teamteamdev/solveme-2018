@@ -1,0 +1,11 @@
+category: day5
+points:   25
+short:    proverbs
+name:     "Пословицы и поговорки"
+author:   grinnds
+description: >
+  
+attachments:
+  - proverbial_collection.txt
+flags:
+  - text: "ascii_i5_so_c00l"
