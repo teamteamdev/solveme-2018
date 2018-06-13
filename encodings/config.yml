@@ -1,5 +1,5 @@
 category: day2
-points:   15
+points:   20
 short:    encodings
 name:     "Кодировочки"
 author:   nsychev
@@ -7,5 +7,7 @@ description: >
     У вас новое сообщение!
     
     `NjY2YzYxNjc1ZjY5NzM1ZjYzNmM2ZjczNjU3MjVmNzQ2ODYxNmU1Zjc5NmY3NTVmNjU3ODcwNjU2Mzc0`
+    
+    *Подсказка*: это **двухходовочка** — нужно сначала раскодировать текст одним способом, а затем другим
 flags:
   - text: "flag_is_closer_than_you_expect"
