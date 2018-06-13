@@ -1,0 +1,13 @@
+category: day3
+points:   20
+short:    wingdings
+name:     "Странные символы"
+author:   grinnds
+description: >
+  Мой лучший друг отправил мне такое сообщение, 
+  но оно выглядит как-то странно.
+  Возможно, он решил пошутить?
+attachments:
+  - message.png
+flags:
+  - text: "i_l0v3_b3aut1ful_f0nts"
