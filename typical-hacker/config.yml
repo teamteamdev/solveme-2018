@@ -1,0 +1,14 @@
+category: day6
+points:   15
+short:    typical-hacker
+name:     "Типичный хакер"
+author:   dmitriyp
+description: >
+    Дима тоже захотел стать хакером, но кроме публикования фоточек и общения
+    с кулхацкерами он ничего не умеет, даже первый таск не решил :(
+    
+    Есть слух, что эти самые кулхацкеры слили ему секретные флаги…
+attachments: 
+  - photo.jpg
+flags:
+  - text: "1t_w@s_y0ur_f1rst_r3con"
