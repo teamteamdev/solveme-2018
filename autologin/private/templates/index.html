@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>Dummy site</h1>
+    {% if session.get('user') %}
+        <h2>You are logged in!</h2>
+        <a href="{{ url_for('logout') }}" class="btn btn-danger">Log out</a>
+    {% else %}
+        <h2>You are not logged in</h2>
+        <form method="post">
+            {{ form.hidden_tag() }}
+            <div class="form-row">
+                <div class="col-auto">
+                    {{ form.login.label() }}
+                    {{ form.login(value='user', required=True, placeholder='Enter your username',
+                          class='form-control ' + (' is-invalid' if form.errors.login else '')) }}
+                    {% for error in form.errors.login %}
+                        <div class="invalid-feedback">{{ error }}</div>
+                    {% endfor %}
+                </div>
+            </div>
+            <div class="form-row">
+                <div class="col-auto">
+                    {{ form.password.label() }}
+                    {{ form.password(required=True, placeholder='Enter password',
+                             class='form-control ' + (' is-invalid' if form.errors.password else '')) }}
+                    {% for error in form.errors.password %}
+                        <div class="invalid-feedback">{{ error }}</div>
+                    {% endfor %}
+                </div>
+            </div>
+            <div style="margin-top: 3px">
+                {{ form.submit(class='btn btn-success', value='Log in') }}
+            </div>
+        </form>
+    {% endif %}
+{% endblock %}
+{% block scripts %}
+    <script>
+    $('#password').val('so_insecure');
+    </script>
+{% endblock %}
