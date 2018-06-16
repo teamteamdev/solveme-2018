@@ -1,0 +1,11 @@
+category: day6
+points:   15
+short:    secure-code
+name:     "док йынсапозеБ"
+author:   grinnds
+description: >
+  :отэ ьтадагзар йуборпоп ыт он ,мотскет с кат ен от-отч ,ястежак ...уоВ !тевирП
+attachments:
+  - code.txt
+flags:
+  - text: "easy-reversed-morse"
