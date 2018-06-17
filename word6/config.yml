@@ -1,0 +1,12 @@
+category: day7
+points:   15
+short:    word6
+name:     "Word: Template"
+author:   "nsychev, inspired by vos@spbctf"
+description: >
+    Объявляю сегодняшний день **международным днём Ворда**! Говорят, что этот файл напичкан флагами чуть более, чем полностью.
+    
+    *В этот таск сдай флаг 6*
+url: https://yadi.sk/i/fmm79bQn3Y3GGa
+flags:
+  - text: "flag6_yeah_word_is_zip"

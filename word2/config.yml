@@ -1,0 +1,12 @@
+category: day7
+points:   10
+short:    word2
+name:     "Word: Invisible"
+author:   "nsychev, inspired by vos@spbctf"
+description: >
+    Объявляю сегодняшний день **международным днём Ворда**! Говорят, что этот файл напичкан флагами чуть более, чем полностью.
+    
+    *В этот таск сдай флаг 2*
+url: https://yadi.sk/i/fmm79bQn3Y3GGa
+flags:
+  - text: "flag2_colontitles_may_be_helpful"
