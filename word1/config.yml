@@ -1,0 +1,12 @@
+category: day7
+points:   10
+short:    word1
+name:     "Word: Reader"
+author:   "nsychev, inspired by vos@spbctf"
+description: >
+    Объявляю сегодняшний день **международным днём Ворда**! Говорят, что этот файл напичкан флагами чуть более, чем полностью.
+    
+    *В этот таск сдай флаг 1*
+url: https://yadi.sk/i/fmm79bQn3Y3GGa
+flags:
+  - text: "flag1_hellocaesar"

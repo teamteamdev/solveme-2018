@@ -1,0 +1,12 @@
+category: day7
+points:   25
+short:    word7
+name:     "Word: Corrupt"
+author:   "nsychev, inspired by vos@spbctf"
+description: >
+    Объявляю сегодняшний день **международным днём Ворда**! Говорят, что этот файл напичкан флагами чуть более, чем полностью.
+    
+    *В этот таск сдай флаг 7*
+url: https://yadi.sk/i/fmm79bQn3Y3GGa
+flags:
+  - text: "flag7_easy_binary_task"
