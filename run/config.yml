@@ -1,0 +1,11 @@
+category: day8
+points:   15
+short:    run
+name:     "SSH"
+author:   nsychev
+description: >
+    Мы нашли уязвимый сервер: кажется, на порту 2018 на сервере `secret.upml.tech` поднято что-то непонятное! Логин `run`, пароль `run`
+    
+    Узнайте, как туда подключиться и получить флаг
+flags:
+  - text: bash_is_so_easy
