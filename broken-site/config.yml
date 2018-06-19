@@ -1,0 +1,12 @@
+category: day8
+points:   15
+short:    broken-site
+name:     "Сломанный сайт"
+author:   nsychev
+description: >
+    Сайт, на котором я генерирую таски, неожиданно упал. Причем что-то не даёт мне покоя.
+    
+    Мне кажется, что это ещё один таск. Но я не знаю, у кого спросить, что же делать. Может быть, ты поможешь?
+url:      https://day8.upml.tech/
+flags:
+  - text: "just_use_google_when_you_are_stuck"
