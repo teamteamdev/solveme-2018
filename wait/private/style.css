@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto');
+
 html {
     font: inherit;
 }
 
 body {
-    font-size: 20pt;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28pt;
     background-color: #3c17c1;
     color: #1ae01e;
     text-align: center;
@@ -15,6 +18,7 @@ body {
 
 code {
     color: red;
+    font-family: 'Roboto Mono', monospace;
 }
 
 .fullscreen {
