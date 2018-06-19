@@ -10,5 +10,5 @@ description: >
 attachments:
   - fragment.wav
 flags:
-  - text: first_flag_is_the_easiest_flag
+  - text: voice_recognition
 
