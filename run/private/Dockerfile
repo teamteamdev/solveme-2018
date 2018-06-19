@@ -7,8 +7,6 @@ RUN apk --update add openssh bash \
   && echo "run:run" | chpasswd \
   && ssh-keygen -A \
   && chown -R root:root home \
-  && chattr +i /etc/passwd \
-  && chattr +i /etc/shadow \
   && chmod 755 /home/flag \ 
   && sed -i 's/Subsystem\tsftp/#Subsystem sftp/' /etc/ssh/sshd_config
 
