@@ -1,0 +1,14 @@
+category: day8
+points:   15
+short:    news
+name:     "Новости"
+author:   nsychev
+description: >
+    Каждый день по телевизору говорят какую-то дичь!
+    
+    Это настолько странно, что я даже записал передачу на диктофон
+attachments:
+  - fragment.wav
+flags:
+  - text: voice_recognition
+

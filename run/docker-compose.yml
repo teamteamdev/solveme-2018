@@ -1,0 +1,10 @@
+version: '2'
+services:
+  host:
+    build: 
+      context: private
+      dockerfile: Dockerfile
+    image: solveme/ssh
+    ports:
+        - "2018:22"
+    restart: always
