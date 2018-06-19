@@ -1,4 +1,4 @@
-var msecs = 13*1000;
+var msecs = 130037*1000;
 var targetRun = Date.now() + msecs;
 function upd() {
     var sec = document.getElementById('sec');
