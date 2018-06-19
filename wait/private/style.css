@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto');
+
+html {
+    font: inherit;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 28pt;
+    background-color: #3c17c1;
+    color: #1ae01e;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+code {
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.fullscreen {
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 0;
+    position: absolute;
+}
+
+.hidden {
+    animation: fadein 5s linear;
+}
+
+#sec {
+    animation: blinking 1.8s linear infinite;
+}
+
+#content {
+    position: relative;
+    float: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+@keyframes fadein {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes blinking {
+    50% { opacity: 0.4; }
+}
