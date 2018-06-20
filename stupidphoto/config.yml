@@ -1,5 +1,3 @@
-#!yaml
-
 category: day10
 points:   15
 short:    stupidphoto
@@ -7,7 +5,8 @@ name:     "Абстрактный фотограф"
 author:   netosha
 description: >
  Antiфотограф Антоша любит фотографировать абстрактные картинки и отсылать это синеволосому другу.
- Друг такого долго терпеть не мог, поэтому сделал обидные стикеры для Тоши.
-url: ["https://imgur.com/a/Q93anz6","https://t.me/addstickers/solveme_task"]
+
+ Друг такого долго терпеть не мог, поэтому сделал обидные стикеры для Тоши. [Стикеры](https://t.me/addstickers/solveme_task)
+url: "https://imgur.com/a/Q93anz6"
 flags:
   - text: "LEBEDEV_KROTOOY"
