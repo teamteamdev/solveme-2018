@@ -26,5 +26,5 @@
 <input class="form-control " id="password" name="password" placeholder="Enter password" required="" type="text" value="">
 ```
 
-**Флаг:** `so_insecure`
+Флаг: **so_insecure**
 
