@@ -6,3 +6,5 @@
 >  Друг такого долго терпеть не мог, поэтому сделал обидные стикеры для Тоши. [Стикеры](https://t.me/addstickers/solveme_task)
 >
 > [Картиночки](https://imgur.com/a/Q93anz6)
+
+[Write-up](WRITEUP.md)
