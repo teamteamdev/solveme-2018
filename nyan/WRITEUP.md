@@ -16,8 +16,7 @@
 Скачиваем, открываем, слушаем. Ведь длительность всего лишь час. Не так уж и много.
 Внимательно послушав, можем заметить, что каждые 13 минут 37 секунд звучит флаг.
 
-Флаг: `i_love_ten_hours_music`
+*P.S.* Да, это [Nyan Cat](https://ru.wikipedia.org/wiki/Nyan_Cat).
 
-##### P.S.
-Да, это [Nyan Cat](https://ru.wikipedia.org/wiki/Nyan_Cat).
+Флаг: **i_love_ten_hours_music**
 
