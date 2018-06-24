@@ -1,6 +1,6 @@
 # Word: Invisible: Write-up
 
-[Reader](../word1/) | **Invisible** | [Meta](../word3/) | [Figure](../word4/) | [С чем поиграть](../word5/) | [Template](../word6/) | [Corrupt](../word7/)
+[Reader](../word1/WRITEUP.md) | **Invisible** | [Meta](../word3/WRITEUP.md) | [Figure](../word4/WRITEUP.md) | [С чем поиграть](../word5/WRITEUP.md) | [Template](../word6/WRITEUP.md) | [Corrupt](../word7/WRITEUP.md)
 
 Название таска намекает на то, что где-то есть невидимый текст.
 

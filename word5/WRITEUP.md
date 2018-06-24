@@ -1,6 +1,6 @@
 # Word: С чем поиграть: Write-up
 
-[Reader](../word1/) | [Invisible](../word2/) | [Meta](../word3/) | [Figure](../word4/) | **С чем поиграть** | [Template](../word6/) | [Corrupt](../word7/)
+[Reader](../word1/WRITEUP.md) | [Invisible](../word2/WRITEUP.md) | [Meta](../word3/WRITEUP.md) | [Figure](../word4/WRITEUP.md) | **С чем поиграть** | [Template](../word6/WRITEUP.md) | [Corrupt](../word7/WRITEUP.md)
 
 В этом таске намек был на известную фразу «поиграться со шрифтами».
 

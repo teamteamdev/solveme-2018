@@ -1,6 +1,6 @@
 # Word: Figure: Write-up
 
-[Reader](../word1/) | [Invisible](../word2/) | [Meta](../word3/) | **Figure** | [С чем поиграть](../word5/) | [Template](../word6/) | [Corrupt](../word7/)
+[Reader](../word1/WRITEUP.md) | [Invisible](../word2/WRITEUP.md) | [Meta](../word3/WRITEUP.md) | **Figure** | [С чем поиграть](../word5/WRITEUP.md) | [Template](../word6/WRITEUP.md) | [Corrupt](../word7/WRITEUP.md)
 
 Figure. Видимо, какой-то графический элемент или что-то типа того: картинка, график, объект и т.д.
 

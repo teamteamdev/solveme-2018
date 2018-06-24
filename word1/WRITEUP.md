@@ -1,6 +1,6 @@
 # Word: Reader: Write-up
 
-**Reader** | [Invisible](../word2/) | [Meta](../word3/) | [Figure](../word4/) | [С чем поиграть](../word5/) | [Template](../word6/) | [Corrupt](../word7/)
+**Reader** | [Invisible](../word2/WRITEUP.md) | [Meta](../word3/WRITEUP.md) | [Figure](../word4/WRITEUP.md) | [С чем поиграть](../word5/WRITEUP.md) | [Template](../word6/WRITEUP.md) | [Corrupt](../word7/WRITEUP.md)
 
 Открываем файл, видим приветствие и много пустых страниц. Но пустые ли они? Листаем и внимательно смотрим.
 

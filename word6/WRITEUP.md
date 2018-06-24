@@ -1,6 +1,6 @@
 # Word: Template: Write-up
 
-[Reader](../word1/) | [Invisible](../word2/) | [Meta](../word3/) | [Figure](../word4/) | [С чем поиграть](../word5/) | **Template** | [Corrupt](../word7/)
+[Reader](../word1/WRITEUP.md) | [Invisible](../word2/WRITEUP.md) | [Meta](../word3/WRITEUP.md) | [Figure](../word4/WRITEUP.md) | [С чем поиграть](../word5/WRITEUP.md) | **Template** | [Corrupt](../word7/WRITEUP.md)
 
 Мало кто знает, но в далеких 2000-х годах многие люди пользовались шаблонами для создания Word-документов.
 И сейчас тоже кто-то пользуется. Но большинство — нет, и по умолчанию шаблон документа — `Normal.dotm`.

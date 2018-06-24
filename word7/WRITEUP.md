@@ -1,6 +1,6 @@
 # Word: Corrupt: Write-up
 
-[Reader](../word1/) | [Invisible](../word2/) | [Meta](../word3/) | [Figure](../word4/) | [С чем поиграть](../word5/) | [Template](../word6/) | **Corrupt**
+[Reader](../word1/WRITEUP.md) | [Invisible](../word2/WRITEUP.md) | [Meta](../word3/WRITEUP.md) | [Figure](../word4/WRITEUP.md) | [С чем поиграть](../word5/WRITEUP.md) | [Template](../word6/WRITEUP.md) | **Corrupt**
 
 При открытии документа в Word мы видим, что он поврежден — не все данные удается достать. Но почему?
 
