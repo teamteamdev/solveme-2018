@@ -81,4 +81,6 @@
 * [Евгений Филимонов](https://t.me/evgfilim1) — таски [Музыка из игры](nyan/), [Автоматический вход](autologin/), [Просто подожди](wait/)
 * [Дмитрий Пироженко](https://t.me/dmitriypru) — таск [Типичный хакер](typical-hacker/)
 * [Антон Быченков](https://t.me/netosha) — таск [Плохой фотограф](stupidphoto/)
+
 Спасибо [@vanyaklimenko](https://t.me/vanyaklimenko) за дизайн платформы
+
